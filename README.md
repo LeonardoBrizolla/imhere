@@ -5,12 +5,7 @@
 App para cadastro de participantes em eventos
 </p>
 
-<h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./.github/empty-screen.png" width="250" height="524"/>
-  <video width="250" height="524" controls>
-    <source src="./.github/imhere-video.mp4" type="video/mp4">
-  </video>
-</h1>
+https://github.com/LeonardoBrizolla/imhere/assets/34755142/acc79b97-3e92-46ed-b0c7-b45981ebd1c5
 
 ### Features
 
